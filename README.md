@@ -6,6 +6,6 @@ First edition of the **Java Game Development Conference** held in **IES Campanil
 * [Team - Game title]()
 
 ### 1º DAM
-* [Team NoNameException - Maze-runner / pong](https://github.com/Frankcs96/maze-runner)
+* [Team NoNameException - Maze-runner](https://github.com/Frankcs96/maze-runner)
 * [Team Litiengine - Jailbreak / mario bros](https://github.com/PabloLuisMolinaBlanes/Game-1--DAM-19-21)
 * [Team JustOnePlayer - Tres en Raya](https://github.com/IvanTorres21/TicTacToe-Java)
